@@ -2,7 +2,7 @@
 
 A controlled phishing simulation environment used to study detection, telemetry and soc response workflow.
    
-
+    
 ## Ethical Disclaimer
 
 This is a lab designed for defensive cybersecurity tarining , phishing awareness and soc detection practice. No real users or organizations or crdentials are involved.
