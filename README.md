@@ -1,7 +1,7 @@
 # Phishing-Simulation-and-SOC-Detection-Lab
 
 A controlled phishing simulation environment used to study detection, telemetry and soc response workflow.
-   
+                               
     
 ## Ethical Disclaimer
 
