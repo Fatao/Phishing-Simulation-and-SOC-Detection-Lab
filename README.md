@@ -10,7 +10,7 @@ This is a lab designed for defensive cybersecurity tarining , phishing awareness
 ## Describtion
 
 A controlled phishing simulation and soc detection lab designed to study user behaviour , email threats and incident response in a safe environment.
-
+    
                                                         
 ## Tech Stacks
 Linux
